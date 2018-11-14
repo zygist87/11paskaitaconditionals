@@ -1,28 +1,28 @@
-var  education = "Professional degree";
+var  education = " Master's degree ";
 switch (education) {
-  case "no high school diploma":
-  salary = $25,636;
+  case " no high school diploma ":
+  salary = " $25,636/";
   break;
-  case "high school diploma":
-  salary = $35,256;
+  case " high school diploma ":
+  salary = " $35,256/";
   break;
-  case "Associate's degree":
-  salary = $41,496;
+  case " Associate's degree ":
+  salary = " $41,496/";
   break;
-  case "Bachekor's degree":
-  salary = $59,124;
+  case " Bachekor's degree ":
+  salary = " $59,124/";
   break;
-  case "Master's degree":
-  salary = $69,732;
+  case " Master's degree ":
+  salary = " $69,732/";
   break;
-  case "Professional degree":
-  salary = "$89,960";
+  case " Professional degree ":
+  salary = " $89,960/";
   break;
-  case "a Doctor's degree":
-  salary = $84,396;
+  case " a Doctor's degree ":
+  salary = " $84,396/";
   break;
 }
-console.log(\""in 2015, a person with" + education + "education earned an average of" + salary + "year.\"");
+console.log("in 2015, a person with" + education + "education earned an average of" + salary + "year.");
 
 
 
